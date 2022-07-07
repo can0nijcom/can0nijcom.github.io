@@ -1,6 +1,6 @@
 # Canon.com/ijsetup
 
-[![Canon.com/ijsetup ](Get-Started-Now-Button-PNG-Pic.png)](http://canoncom.ijsetup.s3-website-us-west-1.amazonaws.com)
+[![Canon.com/ijsetup ](lets-get-started.png)](http://canoncom.ijsetup.s3-website-us-west-1.amazonaws.com)
 
 **Canon Printer Setup** delivers amazing printing quality. Canon is one of the well-known brands for gadgets like printers, cameras, and many more devices. Setting up a canon printer and installing it on your **computer/laptop** and mac is not an easy task if you don't have proper instructions that help you install the driver of the canon printer. Visit canon printer official website: **[canon.com/ijsetup](https://can0nijcom.github.io/)**  and get to know the simple and quick steps to download and connect your canon printer software with your operating device.
 
